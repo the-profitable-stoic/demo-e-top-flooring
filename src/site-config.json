@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "E Top Flooring",
+    "phone": "+17865420199",
+    "category": "flooring installer",
+    "city": "Miami",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Miami's Premier Flooring Installers",
+      "heroSubline": "E Top Flooring delivers expert craftsmanship and lasting beauty to your home or business. We tackle Miami's toughest flooring challenges with skill and integrity.",
+      "aboutTitle": "Decades of Flooring Excellence in Miami",
+      "aboutText": [
+        "E Top Flooring has been transforming spaces across Miami-Dade County for over a decade. Founded by seasoned flooring experts, we built our reputation on delivering unparalleled quality and service, even in the face of Miami's unique environmental challenges.",
+        "Our approach is simple: understand your vision, assess your needs, and execute with precision. We prioritize clear communication, meticulous preparation, and durable materials that stand up to the Florida heat, humidity, and occasional hurricane.",
+        "We're deeply invested in the Miami community, supporting local initiatives and sourcing materials whenever possible. E Top Flooring isn't just about installing floors; it's about building lasting relationships and enhancing the beauty of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Hurricane-Resistant Installs",
+          "description": "We specialize in flooring solutions designed to withstand Miami's intense weather, from high winds to potential flooding."
+        },
+        {
+          "title": "Expert Material Selection",
+          "description": "We guide you through choosing the perfect flooring for your lifestyle and budget, considering Miami's humidity and salt air."
+        },
+        {
+          "title": "Meticulous Preparation",
+          "description": "Our detailed prep work ensures a flawless and long-lasting installation, addressing any subfloor imperfections."
+        },
+        {
+          "title": "Unwavering Commitment",
+          "description": "From initial consultation to final inspection, we're dedicated to providing exceptional service and complete satisfaction."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Get a free, no-obligation quote for your flooring project. Call E Top Flooring now!"
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring-installation",
+        "name": "Hardwood Flooring Installation",
+        "shortDescription": "Bring warmth and elegance to your Miami home with expertly installed hardwood floors.",
+        "description": "Hardwood flooring adds timeless beauty and value to any property. However, Miami's climate demands careful consideration and expert installation. E Top Flooring specializes in selecting and installing hardwood floors that can withstand the region's humidity and temperature fluctuations. We start with a thorough assessment of your subfloor, addressing any moisture issues or imperfections that could compromise the longevity of your hardwood. Our team uses premium adhesives and sealing techniques to prevent warping, cupping, and other common problems associated with hardwood in humid environments. Choose from a wide range of wood species, finishes, and plank sizes to create a custom look that complements your Miami style. We handle everything from initial consultation and material selection to precise installation and detailed finishing, ensuring a flawless and durable hardwood floor that will last for years to come.",
+        "process": [
+          "Step 1: Comprehensive site assessment and moisture testing",
+          "Step 2: Subfloor preparation and leveling",
+          "Step 3: Careful acclimation of hardwood to the environment",
+          "Step 4: Precision installation using premium adhesives and fasteners"
+        ],
+        "benefits": [
+          "Increased property value",
+          "Timeless aesthetic appeal",
+          "Improved indoor air quality",
+          "Durable and long-lasting flooring solution"
+        ],
+        "faq": [
+          {
+            "question": "Will hardwood flooring work in Miami's humid climate?",
+            "answer": "Yes, with proper selection and installation. We use moisture-resistant hardwoods and advanced techniques to combat humidity."
+          },
+          {
+            "question": "How long does hardwood flooring installation take?",
+            "answer": "The duration depends on the size of the area and the complexity of the project, but we provide a detailed timeline upfront."
+          },
+          {
+            "question": "What type of maintenance is required for hardwood floors in Miami?",
+            "answer": "Regular cleaning with a hardwood-specific cleaner is essential. We also recommend periodic refinishing to maintain the floor's luster and protection."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring-installation",
+        "name": "Laminate Flooring Installation",
+        "shortDescription": "Achieve the look of hardwood or tile at a fraction of the cost with durable laminate flooring.",
+        "description": "Laminate flooring offers a cost-effective and versatile alternative to hardwood or tile, making it a popular choice for Miami homeowners and businesses. E Top Flooring provides expert laminate flooring installation services, ensuring a smooth, seamless, and long-lasting result. We carefully prepare the subfloor to create a level and stable surface, preventing issues like buckling or unevenness. Our team uses precision cutting techniques to ensure tight seams and a professional finish. We understand the importance of moisture resistance in Miami, so we recommend and install laminate flooring with a waterproof core to minimize the risk of water damage. Choose from a wide variety of styles, colors, and textures to achieve the desired look for your space. From classic wood grains to modern tile patterns, laminate flooring offers endless design possibilities.",
+        "process": [
+          "Step 1: Detailed subfloor inspection and preparation",
+          "Step 2: Precise measurement and cutting of laminate planks",
+          "Step 3: Professional installation with tight seams and secure locking mechanisms",
+          "Step 4: Installation of transitions and moldings for a finished look"
+        ],
+        "benefits": [
+          "Affordable and budget-friendly",
+          "Durable and scratch-resistant",
+          "Easy to clean and maintain",
+          "Wide variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring suitable for high-traffic areas?",
+            "answer": "Yes, laminate flooring is highly durable and resistant to wear and tear, making it ideal for busy areas."
+          },
+          {
+            "question": "Can laminate flooring be installed over concrete?",
+            "answer": "Yes, with proper subfloor preparation and a moisture barrier, laminate flooring can be successfully installed over concrete."
+          },
+          {
+            "question": "How do I clean and maintain laminate floors?",
+            "answer": "Regular sweeping and mopping with a laminate-specific cleaner are usually sufficient. Avoid using abrasive cleaners or excessive water."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring-installation",
+        "name": "Tile Flooring Installation",
+        "shortDescription": "Add elegance and durability to your Miami home with stunning tile flooring.",
+        "description": "Tile flooring is a classic and versatile choice for Miami homes and businesses, offering exceptional durability and resistance to moisture. E Top Flooring specializes in the expert installation of all types of tile, including ceramic, porcelain, and natural stone. We understand the importance of proper subfloor preparation to ensure a level and stable surface for tile installation. Our team uses premium mortars and grouts to create a strong and waterproof bond, preventing cracks and water damage. We pay meticulous attention to detail, ensuring precise tile placement and grout lines for a flawless finish. Whether you're looking to create a sleek modern look or a traditional Mediterranean style, we have the expertise to bring your vision to life.",
+        "process": [
+          "Step 1: Thorough subfloor preparation and leveling",
+          "Step 2: Precise layout and marking of tile placement",
+          "Step 3: Expert tile installation using premium mortars and grouts",
+          "Step 4: Grouting, sealing, and polishing for a finished look"
+        ],
+        "benefits": [
+          "Exceptional durability and longevity",
+          "Waterproof and stain-resistant",
+          "Easy to clean and maintain",
+          "Wide range of styles, colors, and textures"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between ceramic and porcelain tile?",
+            "answer": "Porcelain tile is denser and more water-resistant than ceramic tile, making it a better choice for high-moisture areas."
+          },
+          {
+            "question": "How do I choose the right grout color for my tile floor?",
+            "answer": "Consider the overall aesthetic you want to achieve. A contrasting grout color can highlight the tile pattern, while a matching grout color creates a more seamless look."
+          },
+          {
+            "question": "How often should I seal my tile grout?",
+            "answer": "Grout should be sealed every 1-2 years to prevent staining and water damage."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring-installation",
+        "name": "Vinyl Flooring Installation",
+        "shortDescription": "Enjoy waterproof, comfortable, and stylish flooring with our professional vinyl installation services.",
+        "description": "Vinyl flooring is an excellent choice for Miami homes, offering exceptional water resistance, comfort underfoot, and a wide range of design options. E Top Flooring provides expert vinyl flooring installation services, ensuring a smooth, seamless, and long-lasting result. We carefully prepare the subfloor to create a level and stable surface, essential for preventing issues like bubbles or unevenness. Our team uses precision cutting techniques to ensure tight seams and a professional finish. Vinyl flooring is particularly well-suited to Miami's humid environment and is resistant to mold and mildew. We install various types of vinyl, including luxury vinyl plank (LVP), sheet vinyl, and vinyl tile. Choose from various styles, colors, and textures to achieve the desired look for your space.",
+        "process": [
+          "Step 1: Detailed subfloor inspection and preparation",
+          "Step 2: Precise measurement and cutting of vinyl flooring",
+          "Step 3: Professional installation with secure adhesives and seams",
+          "Step 4: Rolling and sealing for a finished look"
+        ],
+        "benefits": [
+          "Waterproof and moisture-resistant",
+          "Comfortable and quiet underfoot",
+          "Easy to clean and maintain",
+          "Affordable and versatile"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for bathrooms and kitchens?",
+            "answer": "Yes, vinyl flooring's waterproof properties make it an ideal choice for bathrooms and kitchens."
+          },
+          {
+            "question": "What is the difference between sheet vinyl and vinyl plank?",
+            "answer": "Sheet vinyl comes in large rolls, providing a seamless surface, while vinyl plank comes in individual planks that click together."
+          },
+          {
+            "question": "How do I clean and maintain vinyl floors?",
+            "answer": "Regular sweeping and mopping with a mild detergent are usually sufficient. Avoid using abrasive cleaners or excessive water."
+          }
+        ]
+      },
+      {
+        "slug": "floor-repair-restoration",
+        "name": "Floor Repair & Restoration",
+        "shortDescription": "Restore your damaged or worn flooring to its former glory with our expert repair and restoration services.",
+        "description": "Don't replace your floors – restore them! E Top Flooring offers comprehensive floor repair and restoration services for all types of flooring in Miami. Whether you have damaged hardwood, cracked tile, or worn laminate, our experienced technicians can bring your floors back to life. We assess the extent of the damage and develop a tailored repair plan to address the specific issues. Our services include patching, sanding, refinishing, and replacing damaged sections. We use high-quality materials and proven techniques to ensure a seamless and long-lasting repair. Living in Miami, floors can experience water damage, sun fading, or general wear-and-tear. We specialize in restoring floors to withstand Miami's unique climate conditions.",
+        "process": [
+          "Step 1: Thorough inspection and assessment of damage",
+          "Step 2: Development of a customized repair plan",
+          "Step 3: Expert repair and restoration using high-quality materials",
+          "Step 4: Finishing and sealing for a seamless look"
+        ],
+        "benefits": [
+          "Cost-effective alternative to replacement",
+          "Extends the life of your floors",
+          "Enhances the beauty of your space",
+          "Reduces the environmental impact of disposal"
+        ],
+        "faq": [
+          {
+            "question": "Can you repair water-damaged hardwood floors?",
+            "answer": "Yes, we can assess the extent of the damage and repair or replace affected sections."
+          },
+          {
+            "question": "How long does floor restoration take?",
+            "answer": "The duration depends on the size and complexity of the project, but we provide a detailed timeline upfront."
+          },
+          {
+            "question": "Will the repaired area match the existing flooring?",
+            "answer": "We strive to match the repaired area as closely as possible to the existing flooring, using similar materials and finishes."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-flooring",
+        "name": "Commercial Flooring Solutions",
+        "shortDescription": "Durable, stylish flooring solutions for Miami businesses, built to withstand heavy traffic and enhance your brand.",
+        "description": "E Top Flooring understands the unique demands of commercial flooring in Miami. We offer a wide range of durable and stylish flooring solutions designed to withstand heavy traffic and enhance your business's image. We work with businesses of all sizes, from retail stores and restaurants to offices and warehouses. Our experienced team can help you select the perfect flooring for your specific needs, considering factors such as durability, aesthetics, and budget. We offer a variety of commercial flooring options, including epoxy flooring, luxury vinyl tile (LVT), and commercial-grade carpet. We provide expert installation services, ensuring a seamless and long-lasting result. Salt air, heavy foot traffic, and potential flooding are all concerns we address with our commercial clients.",
+        "process": [
+          "Step 1: Consultation and needs assessment",
+          "Step 2: Material selection and design planning",
+          "Step 3: Professional installation with minimal disruption",
+          "Step 4: Ongoing maintenance and support"
+        ],
+        "benefits": [
+          "Durable and long-lasting flooring solutions",
+          "Enhanced business image",
+          "Improved safety and ergonomics",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What type of flooring is best for a high-traffic retail store?",
+            "answer": "Luxury vinyl tile (LVT) and epoxy flooring are both excellent choices for high-traffic retail stores due to their durability and ease of maintenance."
+          },
+          {
+            "question": "Can you install flooring outside of business hours?",
+            "answer": "Yes, we offer flexible scheduling options to minimize disruption to your business operations."
+          },
+          {
+            "question": "Do you offer maintenance services for commercial flooring?",
+            "answer": "Yes, we offer ongoing maintenance services to keep your commercial flooring looking its best."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl",
+        "state": "FL",
+        "content": "E Top Flooring is proud to offer our expert flooring installation services to the residents and businesses of Fort Lauderdale, Florida. Known for its beautiful beaches and intricate canal system, Fort Lauderdale presents unique flooring challenges and opportunities. We understand the specific needs of properties in this area, from the waterfront homes built in the 1960s and 70s to the modern condominiums that line the coast. \n\nOur team is experienced in installing a wide variety of flooring materials suitable for the year-round heat and humidity of South Florida. We can help you choose the perfect flooring to withstand the elements and complement your home's aesthetic, whether it's durable tile, waterproof vinyl, or elegant hardwood.",
+        "localContext": "We provide flooring solutions tailored to the waterfront lifestyle and architectural styles prevalent throughout Fort Lauderdale.",
+        "nearbyAreas": [
+          "Pompano Beach",
+          "Hollywood",
+          "Wilton Manors"
+        ]
+      },
+      {
+        "city": "Coral Springs",
+        "slug": "coral-springs-fl",
+        "state": "FL",
+        "content": "E Top Flooring is your trusted flooring partner in Coral Springs, Florida. As a planned community developed primarily in the 1980s and 90s, Coral Springs features a distinct architectural style and a strong sense of community. We are familiar with the common flooring preferences and needs of homes in this area, and we are committed to providing top-quality installation services that meet your specific requirements.\n\nWe offer a wide range of flooring options to suit the diverse tastes and budgets of Coral Springs residents. From cozy carpets for family rooms to durable laminates for high-traffic areas, we have the perfect flooring solution for your home. Our expert installers ensure a flawless finish that will enhance the beauty and value of your property.",
+        "localContext": "We understand the design aesthetics and common flooring types found in Coral Springs planned communities.",
+        "nearbyAreas": [
+          "Parkland",
+          "Margate",
+          "Tamarac"
+        ]
+      },
+      {
+        "city": "Pembroke Pines",
+        "slug": "pembroke-pines-fl",
+        "state": "FL",
+        "content": "E Top Flooring provides professional flooring installation services to the growing community of Pembroke Pines, Florida. Characterized by its planned developments from the 1990s onwards, Pembroke Pines offers a mix of residential styles and needs. We understand the importance of quality flooring that can withstand the demands of a busy family lifestyle while maintaining its beauty and durability.\n\nWe offer a diverse selection of flooring options to complement the various home designs found in Pembroke Pines. Whether you're looking for stylish hardwood, easy-to-maintain tile, or comfortable carpet, our team of experienced installers will ensure a perfect fit and finish. We are committed to delivering exceptional results that exceed your expectations.",
+        "localContext": "We cater to the flooring needs of the residential developments that define Pembroke Pines.",
+        "nearbyAreas": [
+          "Miramar",
+          "Hollywood",
+          "Davie"
+        ]
+      },
+      {
+        "city": "Boca Raton",
+        "slug": "boca-raton-fl",
+        "state": "FL",
+        "content": "E Top Flooring is proud to serve the discerning residents of Boca Raton, Florida. Known for its luxury waterfront estates and upscale lifestyle, Boca Raton demands the highest standards of quality and craftsmanship. We are committed to providing flooring solutions that meet the unique needs and aesthetic preferences of this exclusive community.\n\nWe offer a curated selection of premium flooring materials, including exquisite hardwoods, elegant natural stone, and luxurious carpets. Our expert installers have extensive experience working in high-end properties, ensuring a flawless installation that complements your home's sophisticated design. We understand the importance of attention to detail and are dedicated to delivering exceptional results that will enhance the beauty and value of your home.",
+        "localContext": "We specialize in high-end flooring installations that complement the luxury homes and waterfront estates of Boca Raton.",
+        "nearbyAreas": [
+          "Delray Beach",
+          "Deerfield Beach",
+          "Coconut Creek"
+        ]
+      },
+      {
+        "city": "West Palm Beach",
+        "slug": "west-palm-beach-fl",
+        "state": "FL",
+        "content": "E Top Flooring offers exceptional flooring installation services in West Palm Beach, Florida. Rich in history and architectural charm, West Palm Beach boasts a variety of homes dating back to the 1920s-50s, along with modern developments. We understand the nuances of working with older homes and the importance of preserving their original character while providing updated flooring solutions.\n\nWhether you're restoring a historic bungalow or renovating a contemporary condo, we have the perfect flooring options to suit your style and budget. We offer a wide range of materials, from classic hardwood and tile to modern vinyl and laminate. Our experienced installers are skilled in handling the unique challenges of older homes and ensuring a seamless installation that will last for years to come.",
+        "localContext": "We provide flooring solutions tailored to the historic homes and diverse architectural styles of West Palm Beach.",
+        "nearbyAreas": [
+          "Palm Beach",
+          "Lake Worth",
+          "Riviera Beach"
+        ]
+      },
+      {
+        "city": "Miami",
+        "slug": "miami-fl",
+        "state": "FL",
+        "content": "E Top Flooring is your premier choice for flooring installation in the vibrant city of Miami, Florida. From the Art Deco architecture of South Beach to the modern high-rises downtown, Miami is a city of diverse styles and needs. We understand the unique challenges and opportunities of providing flooring solutions in this dynamic environment.\n\nWe offer a comprehensive range of flooring options to suit any taste and budget. Whether you're looking for sleek and modern porcelain tile, warm and inviting hardwood, or durable and waterproof vinyl, we have the perfect flooring to enhance your home or business. Our experienced installers are committed to delivering exceptional results that exceed your expectations.",
+        "localContext": "We provide flooring solutions tailored to the diverse architectural styles and vibrant lifestyle of Miami.",
+        "nearbyAreas": [
+          "Miami Beach",
+          "Coral Gables",
+          "Doral"
+        ]
+      },
+      {
+        "city": "Miami Beach",
+        "slug": "miami-beach-fl",
+        "state": "FL",
+        "content": "E Top Flooring is proud to offer top-notch flooring services to the residents and businesses of Miami Beach, Florida. Famous for its Art Deco architecture, stunning beaches, and vibrant nightlife, Miami Beach has unique flooring needs. We specialize in providing flooring solutions that complement the iconic style of the area while withstanding the challenges of coastal living and high foot traffic.\n\nWe offer a wide selection of flooring materials suitable for the Miami Beach environment, including durable tile, waterproof vinyl, and elegant hardwood. Our team is experienced in installing flooring in historic buildings, modern condos, and luxurious hotels. We are committed to delivering exceptional craftsmanship and customer satisfaction.",
+        "localContext": "We specialize in flooring solutions that complement the Art Deco architecture and coastal lifestyle of Miami Beach.",
+        "nearbyAreas": [
+          "Miami",
+          "Surfside",
+          "Bal Harbour"
+        ]
+      },
+      {
+        "city": "Hollywood",
+        "slug": "hollywood-fl",
+        "state": "FL",
+        "content": "E Top Flooring is dedicated to providing high-quality flooring installation services in Hollywood, Florida. Known for its beautiful beaches, broadwalk, and diverse community, Hollywood presents a variety of flooring needs. We understand the importance of durable and stylish flooring that can withstand the elements and complement the unique character of the area.\n\nWe offer a wide range of flooring options to suit the diverse tastes and budgets of Hollywood residents and businesses. From cozy carpets to durable laminates, we have the perfect flooring solution for your home or commercial space. Our expert installers ensure a flawless finish that will enhance the beauty and value of your property.",
+        "localContext": "We understand the unique flooring requirements of Hollywood's coastal community and diverse architectural styles.",
+        "nearbyAreas": [
+          "Fort Lauderdale",
+          "Pembroke Pines",
+          "Dania Beach"
+        ]
+      },
+      {
+        "city": "Miramar",
+        "slug": "miramar-fl",
+        "state": "FL",
+        "content": "E Top Flooring is pleased to offer comprehensive flooring services to the residents and businesses of Miramar, Florida. As a rapidly growing city with diverse residential and commercial properties, Miramar demands a variety of flooring solutions. We are committed to providing high-quality installation services that meet the specific needs of this dynamic community.\n\nWe offer a wide range of flooring options to suit the diverse tastes and budgets of Miramar residents. From stylish hardwood to easy-to-maintain tile, we have the perfect flooring solution for your home. Our expert installers ensure a seamless finish that will enhance the beauty and value of your property.",
+        "localContext": "We cater to the flooring needs of the diverse residential and commercial properties in Miramar.",
+        "nearbyAreas": [
+          "Pembroke Pines",
+          "Hollywood",
+          "Weston"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Tile Flooring Installation",
+        "text": "E Top Flooring did an incredible job installing tile in my kitchen. The team was professional, efficient, and the final result is stunning. They paid close attention to detail and made sure everything was perfect. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Hardwood Flooring Installation",
+        "text": "We hired E Top Flooring to install hardwood floors in our living room. The floors look beautiful, and the installers were very skilled. There was a slight delay in getting the materials, but they communicated well and kept us informed.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Laminate Flooring Installation",
+        "text": "E Top Flooring installed laminate flooring in my condo, and I couldn't be happier. The price was competitive, the installation was quick, and the floors look fantastic. They were professional and cleaned up thoroughly after the job was done.",
+        "date": "2025-04-05"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Floor Repair & Restoration",
+        "text": "Our hardwood floors suffered water damage after a recent storm. E Top Flooring came to the rescue and restored them to their original beauty. The team was knowledgeable, efficient, and the repairs are seamless. I highly recommend their services!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Sarah P.",
+        "rating": 4,
+        "service": "Vinyl Flooring Installation",
+        "text": "We chose E Top Flooring to install vinyl flooring in our bathroom. The installation was done quickly and professionally. The floors look great and are perfect for a bathroom. The price was reasonable, and the service was excellent.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Commercial Flooring Solutions",
+        "text": "E Top Flooring installed new flooring in our office space. The team was professional and worked efficiently to minimize disruption to our business. The new floors look great and have made a big difference in the overall look of our office.",
+        "date": "2024-11-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Miami Flooring Installers | E Top Flooring",
+        "description": "Expert flooring installation in Miami, FL. Hardwood, laminate, tile, & vinyl. Hurricane-resistant options. Free quotes!"
+      },
+      "about": {
+        "title": "About E Top Flooring | Miami, FL",
+        "description": "Learn about E Top Flooring – Miami's trusted flooring experts. Decades of experience, quality workmanship, and community commitment."
+      },
+      "services": {
+        "title": "Flooring Services | E Top Flooring, Miami",
+        "description": "Comprehensive flooring services in Miami. Hardwood, laminate, tile, vinyl installation, repair & restoration. Free estimates!"
+      },
+      "contact": {
+        "title": "Contact E Top Flooring | Miami, FL",
+        "description": "Contact E Top Flooring for expert flooring services in Miami. Get a free quote for your project today!"
+      },
+      "reviews": {
+        "title": "E Top Flooring Reviews | Miami, FL",
+        "description": "Read reviews for E Top Flooring in Miami. See what our satisfied customers are saying about our flooring services."
+      },
+      "service-areas": {
+        "title": "E Top Flooring Service Areas",
+        "description": "E Top Flooring provides flooring services throughout Miami-Dade County and surrounding areas. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring-installation": "/images/service-hardwood-flooring-installation.webp",
+      "laminate-flooring-installation": "/images/service-laminate-flooring-installation.webp",
+      "tile-flooring-installation": "/images/service-tile-flooring-installation.webp",
+      "vinyl-flooring-installation": "/images/service-vinyl-flooring-installation.webp",
+      "floor-repair-restoration": "/images/service-floor-repair-restoration.webp",
+      "commercial-flooring": "/images/service-commercial-flooring.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring-installation": {
+        "src": "/images/service-hardwood-flooring-installation.webp",
+        "srcset": "/images/service-hardwood-flooring-installation-400w.webp 400w, /images/service-hardwood-flooring-installation-800w.webp 800w, /images/service-hardwood-flooring-installation-1200w.webp 1200w, /images/service-hardwood-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring-installation": {
+        "src": "/images/service-laminate-flooring-installation.webp",
+        "srcset": "/images/service-laminate-flooring-installation-400w.webp 400w, /images/service-laminate-flooring-installation-800w.webp 800w, /images/service-laminate-flooring-installation-1200w.webp 1200w, /images/service-laminate-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring-installation": {
+        "src": "/images/service-tile-flooring-installation.webp",
+        "srcset": "/images/service-tile-flooring-installation-400w.webp 400w, /images/service-tile-flooring-installation-800w.webp 800w, /images/service-tile-flooring-installation-1200w.webp 1200w, /images/service-tile-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring-installation": {
+        "src": "/images/service-vinyl-flooring-installation.webp",
+        "srcset": "/images/service-vinyl-flooring-installation-400w.webp 400w, /images/service-vinyl-flooring-installation-800w.webp 800w, /images/service-vinyl-flooring-installation-1200w.webp 1200w, /images/service-vinyl-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-repair-restoration": {
+        "src": "/images/service-floor-repair-restoration.webp",
+        "srcset": "/images/service-floor-repair-restoration-400w.webp 400w, /images/service-floor-repair-restoration-800w.webp 800w, /images/service-floor-repair-restoration-1200w.webp 1200w, /images/service-floor-repair-restoration.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-flooring": {
+        "src": "/images/service-commercial-flooring.webp",
+        "srcset": "/images/service-commercial-flooring-400w.webp 400w, /images/service-commercial-flooring-800w.webp 800w, /images/service-commercial-flooring-1200w.webp 1200w, /images/service-commercial-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
